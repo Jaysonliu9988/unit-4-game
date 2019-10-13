@@ -1,0 +1,60 @@
+body {
+    background-image: url("../images/background.jpg");
+}
+
+h1 {
+    color: whitesmoke;
+    background-color: chocolate;
+    margin-top: 10px;
+    padding: 25px;
+
+}
+
+h2 {
+    color: black;
+    background-color: lightgreen;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+h3 {
+    color: white;
+    background-color: green;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+#content {
+    background-color: lightyellow;
+    color: green;
+    padding: 10px 10px 110px 10px;
+    margin-bottom: 10px;    
+}
+
+#score {
+    color: white;
+    background-color: green;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+
+#total-score {
+    height: 100px;
+    margin-top: 10px;
+}
+
+#image1 {
+   
+    float: left;
+    margin-right: 100px;
+    padding: 100px;
+ 
+}
+
+#image2 {
+
+    float: left;
+   
+}
